@@ -5,6 +5,7 @@ Project je zpracován v PostgreSQL DB, do které je nutné nahrát následujicí
 
 1. Tabulky:
    t_milan_krocil_project_sql_primary_final.7s
+   
    t_milan_krocil_project_sql_secondary_final.csv
    
 3. Materializovaný pohled:
